@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Matthew Hung"
+  navbar:
+    left:
+      - text: About Me
+        menu:
+        - text: Research Experience
+          href: 1_aboutme/research.qmd
+        - text: Education
+          href: 1_aboutme/education.qmd
+        - text: Publication
+          href: 1_aboutme/publication.qmd
+        - text: Conference
+          href: 1_aboutme/conference.qmd
+      - 2_portfolio.qmd
+    right:
+      - icon: github
+        href: https://github.com/mshung229
+      #- icon: twitter-x
+      #  href: https://twitter.com
+      - icon: linkedin
+        href: https://linkedin.com/in/miu-shing-matthew-hung-899465178
+      - icon: envelope
+        href: mailto:matthew.hung@crick.ac.uk
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    title-block-banner: true
+    page-layout: full

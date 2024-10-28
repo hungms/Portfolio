@@ -1,0 +1,59 @@
+---
+title: "Research Experience"
+---
+
+## Bioinformatician
+Immunity & Cancer Lab  
+Supervisor: Dr Dinis Calado, The Francis Crick Institute  
+Jun 2023 – Present  
+  
+Topics – B-cell lymphomagenesis, chemotherapy resistance, plasma cell longevity, vaccine efficacy
+  
+•	Performed NGS processing & analysis across 6 projects; analysed >20 T- & B-cell single-cell datasets  
+•	Developed advanced R packages to pipeline single-cell and JH4 amplicon sequencing analysis  
+•	Self-host CELLxGENE portal and GitHub Pages to enable user-friendly visualization of outputs for lab members  
+•	Validate lymphomagenesis in novel mouse genetic models by the inference of copy number variation & trajectory analysis  
+•	Establish novel prognostic gene signatures from mouse single-cell datasets for B-cell lymphoma patients  
+•	Integrate epigenome, transcriptome and proteome data to identify targets for antibody staining & gene manipulation  
+•	Characterization of antigen-specific plasma cells during infections & vaccination via scRNAseq & VDJ clonotype analysis  
+
+## Bioinformatician  
+ Cancer Bioinformatics Lab  
+Supervisor: Prof Anita Grigoriadis, King’s College London  
+Oct 2022 – Mar 2023  
+  
+Project – Role of plasma cells in triple-negative breast cancer (TNBC) metastasis  
+•	Collaborated between UK Biobank, Francis Crick Institute & Lund University  
+•	Retrieved and analysed clinical and pathological data of four TNBC study cohorts consisting of ~600 patients  
+•	Derived mature B-cell subset signatures from human paired tumour & lymph node single-cell transcriptomic datasets  
+•	Deconvoluted tumour-infiltrating immune cells in patient RNAseq data for multivariate survival analysis  
+•	Performed tumour differential expression, pathway enrichment and copy number variation analyses  
+
+## MRes Student  
+Cancer Research, Immunology and Haematology Lab  
+Supervisor: Dr Shahram Kordasti, King’s College London  
+Apr 2022 – Sep 2022  
+  
+Project – Characterise Treg subset under hypoxia and inflammation in aplastic anaemia (AA)  
+•	Performed GSEA and IPA analysis of AA single-cell data to pinpoint central transcription regulators in Treg, myeloid cells and HPSCs  
+•	Set up hypoxic cell culture of CD4+ CD25+ Treg from PBMCs with Dr James Arnold  
+•	Applied multi-panel flow cytometry to phenotype naïve and effector Treg subsets  
+
+## MRes Student  
+Cancer Bioinformatics  
+Supervisor: Dr Anita Grigoriadis, King’s College London  
+Sep 2021 – Mar 2022  
+  
+Project – Regulations of Treg and Tfh during lymph node metastasis of breast cancer  
+•	Analysed Treg and Tfh from 250k tumour, stromal and immune cell 10X scRNA-seq data  
+•	Deciphered ligand-receptor interactions between immune cells with LIANA, NicheNet and CellChat  
+•	Data management and shell-scripting on HPC platforms across institutions (KCL, UCL, CoLCC)  
+
+## BSc Student  
+Vascular Therapeutics  
+Supervisor: Dr Beata Wojciak-Stothard, Imperial College London  
+Sep 2020 – Mar 2021  
+  
+Project – Role of KLF2 on endothelial dysfunction in pulmonary arterial hypertension  
+•	Manipulated gene expression with shRNA and microfluidic flow simulation on human pulmonary arterial endothelial cells (HPAECs)  
+•	Performed immunofluorescence, confocal imaging and luciferase reporter assay to study cell morphology, alignment, and pro-inflammatory response  

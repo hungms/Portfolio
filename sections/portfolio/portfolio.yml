@@ -1,0 +1,20 @@
+- title: "scWorkBook"
+  subtitle: ""
+  description: ""
+  path: https://github.com/hungms/scworkbook
+  date: 09/18/2024
+  categories: [Tutorial, R]
+
+- title: "scUnify"
+  subtitle: ""
+  description: "R package to simplify single-cell omic pipelines and provide customisable visualization functions for multi-omic datasets."
+  path: https://github.com/hungms/scUnify
+  date: 09/18/2024
+  categories: [Package, R]
+
+- title: "BLESS"
+  subtitle: ""
+  description: "R Shiny single-cell browser for B-cells in breast cancers."
+  path: https://github.com/cancerbioinformatics/BLESS
+  date: 02/28/2023
+  categories: [Interative, R]

@@ -1,0 +1,20 @@
+---
+title: "**Miu Shing (Matthew) Hung**"
+image: sections/profile/profile.png
+title-block-banner: false
+about:
+  template: jolla
+  links:
+    - icon: file-text
+      text: CV
+      href: https:/github.com/hungms/Portfolio/sections/profile/MiuShingHungCV2024.pdf
+---
+
+**Bioinformatician**  
+Immunity & Cancer Lab,  
+The Francis Crick Institute,  
+London, UK,  
+NW1 1AT  
+  
+Email: [matthew.hung@crick.ac.uk](matthew.hung@crick.ac.uk)  
+GitHub: [https://github.com/hungms](https://github.com/hungms)  

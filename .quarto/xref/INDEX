@@ -1,0 +1,65 @@
+{
+  "index.qmd": {
+    "index.html": "a27ac5d5"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "a3288734"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "2f2bf2a5"
+  },
+  "about.qmd": {
+    "about.html": "f8fd7ceb"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "7f022a0b"
+  },
+  "updates.qmd": {
+    "updates.html": "88ad8eb1"
+  },
+  "publication.qmd": {
+    "publication.html": "f4a64322"
+  },
+  "development.qmd": {
+    "development.html": "eb3cf315"
+  },
+  "workexp.qmd": {
+    "workexp.html": "6ba04772"
+  },
+  "1_portfolio.qmd": {
+    "1_portfolio.html": "85be0e93"
+  },
+  "3_publication.qmd": {
+    "3_publication.html": "96b7369b"
+  },
+  "2_workexp.qmd": {
+    "2_workexp.html": "58f3b0ec"
+  },
+  "3_workexp.qmd": {
+    "3_workexp.html": "ab2cb692"
+  },
+  "2_publication.qmd": {
+    "2_publication.html": "494133c3"
+  },
+  "2_projects.qmd": {
+    "2_projects.html": "1e50aaab"
+  },
+  "1_aboutme.qmd": {
+    "1_aboutme.html": "8dc247e9"
+  },
+  "2_portfolio.qmd": {
+    "2_portfolio.html": "4b252a52"
+  },
+  "1_aboutme/research.qmd": {
+    "research.html": "53a17631"
+  },
+  "1_aboutme/conference.qmd": {
+    "conference.html": "d1149a2b"
+  },
+  "1_aboutme/publication.qmd": {
+    "publication.html": "f712e2d7"
+  },
+  "1_aboutme/education.qmd": {
+    "education.html": "c542fb60"
+  }
+}

@@ -1,0 +1,7 @@
+---
+title: "Publication"
+---
+
+## 2023
+Li M, Quintana A, Alberts E, <b>Hung MS</b>, Boulat V, Ripoll MM, Grigoriadis A. B Cells in Breast Cancer Pathology. <i>Cancers (Basel). 2023 Feb 28;15(5):1517. doi: 10.3390/cancers15051517</i>  
+[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10000926/#:~:text=B%20cells%20have%20recently%20become,and%20regulation%20of%20adaptive%20responses.)

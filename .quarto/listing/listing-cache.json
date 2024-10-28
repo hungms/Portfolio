@@ -1,0 +1,29 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts"
+    ],
+    "about.qmd": [
+      "posts"
+    ],
+    "portfolio.qmd": [
+      "posts"
+    ],
+    "updates.qmd": [
+      "posts"
+    ],
+    "development.qmd": [
+      "posts"
+    ],
+    "1_portfolio.qmd": [
+      "sections/1_portfolio/portfolio.yml"
+    ],
+    "2_projects.qmd": [
+      "sections/1_portfolio/portfolio.yml",
+      "sections/projects/projects.yml"
+    ],
+    "2_portfolio.qmd": [
+      "sections/portfolio/portfolio.yml"
+    ]
+  }
+}
