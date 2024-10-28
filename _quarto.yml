@@ -13,8 +13,8 @@ website:
           href: 1_aboutme/education.qmd
         - text: Publication
           href: 1_aboutme/publication.qmd
-        - text: Conference
-          href: 1_aboutme/conference.qmd
+        - text: Conferences
+          href: 1_aboutme/conferences.qmd
       - 2_portfolio.qmd
     right:
       - icon: github
